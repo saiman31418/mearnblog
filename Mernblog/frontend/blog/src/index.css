@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.main{
+  margin: auto;
+  
+  background-color: aqua;
+  background-image: url("https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJsb2d8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+  background-size: cover;
+ 
+}
+.form{
+  padding: auto;
+ 
+  margin-left: 270px;
+  margin-top: 25px;
+  width: 700px;
+  background-color:lightgray;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 35px;
+  padding-top: 25px;
+  margin-bottom: 10px;
+
+}
+.login{
+  padding: auto;
+ 
+  margin-left: 10px;
+  margin-top: 25px;
+  width: 700px;
+  background-color:lightgray;
+  padding-left: 40px;
+  padding-right: 40px;
+
+ 
+  padding-bottom: 35px;
+  padding-top: 25px;
+  margin-bottom: 10px;
+
+ 
+  
+  
+
+}
+
+.search
+{
+  padding-right: 400px;
+}
+.searchbar {
+  padding-right:200px ;
+}
+.post{
+  margin-top: 30px;
+ 
+
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: larger;
+
+  
+ 
+
+
+}
+.remove{
+  color: white;
+}
+.post button{
+  float :right;
+  margin-top: 20px;
+  margin-right: 20px;
+ 
+}
+.blogs{
+  padding: 50px;
+  background-color: #4f4b4b;
+  border-style: solid;
+  margin-bottom: 20px;
+  text-decoration: none;
+  
+}
+.blogs h1,h3,p{
+  color: white;
+}
+.link {
+ background-color: red;
+}
+.content{
+  padding-bottom: 200px;
+  
+}
+.update{
+  background-color: lightgray;
+  padding: 30px;
+ 
+  margin: 30px;
+}
+.newlogin{
+  background-image: url("https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJsb2d8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+  background-size: cover;
+  padding-bottom: 350px;
+}
+
